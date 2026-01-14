@@ -1,6 +1,3 @@
-Perfecto: voy a (1) extraer del PDF los roles/fechas exactas, (2) integrar tus 2 proyectos de MM + el proyecto de Data Engineering (Le Wagon) en 2024/25, y (3) condensar el resto en 3 líneas.
-
-
 ## Work Experience
 
 **2025/26 — Research Bioinformatician (Multiple Myeloma mouse models + therapy studies)** 

@@ -1,3 +1,9 @@
+---
+title: "Experience"
+permalink: /experience/
+layout: single
+---
+
 ## Work Experience
 
 **2025/26 — Research Bioinformatician (Multiple Myeloma mouse models + therapy studies)** 

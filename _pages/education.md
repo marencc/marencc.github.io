@@ -1,3 +1,9 @@
+---
+title: "Education"
+permalink: /education/
+layout: single
+---
+
 ## Education 
 
 * **MSc, Bioinformatics and Computational Biology** — Instituto de Salud Carlos III, Escuela Nacional de Sanidad (Spain), **2017**. 

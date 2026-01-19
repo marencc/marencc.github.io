@@ -10,8 +10,8 @@ layout: single
 
 **Email:** [mcallejac@unav.es](mailto:your.name@email.com)
 
-**LinkedIn:** [linkedin.com/in/marencc83](https://www.linkedin.com/in/marencc83/)
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/marencc83/)
 
-**GitHub:** github.com/marencc
+**GitHub:** [Github](https://github.com/marencc)
 
-**ORCID:**  orcid.org/0000-0003-0688-0793
+**ORCID:**  [Orcid](https://orcid.org/0000-0003-0688-0793)

@@ -23,6 +23,9 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: sunrise
 search: true
+head_scripts:
+  - /assets/css/custom.css
+
 
 # Build settings
 markdown: kramdown
@@ -60,7 +63,7 @@ plugins:
 author:
   name   : "María Eréndira Calleja-Cervantes"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Bioinformatician and Data Engineer in cancer genomics (RNA/ATAC/ChIP; single-cell)."
+  bio    : "Bioinformatician and Data Engineer in cancer genomics."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

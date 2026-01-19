@@ -30,8 +30,6 @@ head_scripts:
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-head:
-  - '<link rel="stylesheet" href="/assets/css/custom.css">'
 
 # Outputting
 permalink: /:categories/:title/

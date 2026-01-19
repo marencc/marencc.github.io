@@ -1,11 +1,12 @@
-/*--- Only the main Sass file needs front matter (the dashes are enough) ---  */
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+/* If you use skins, import it BEFORE the theme */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-/* Font size override */
-html {
-    font-size: 13px;
-}
-/* prueba 14px; si quieres más pequeño: 13px */
-.page__content {
-    font-size: 0.95em;
-}
+/* ---- YOUR OVERRIDES (after imports) ---- */
+html { font-size: 13px; }   /* prueba 13px; si quieres menos aún: 12px */
